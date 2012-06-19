@@ -52,3 +52,18 @@ implementing it and moving them into done.
 Features should have an average pace between 3-4 days between start and completion.
 
 ![Trello Developer](img/trello-developer.png?raw=true)
+
+## Limit Work in Progress
+
+We are using Trello to manage a Kanban board.
+An important part of Kanban is to limit work in progress.
+
+The entire development team shares the same board.
+Individuals _must not_ process items outside the board on their own.
+The **In Progress** and **done** columns must have work limits on them.
+You cannot pull a feature into a column unless there is free space.
+
+Items are removed from **Done** as they are verified by the product owner,
+thus lazy verification will delay the entire project.
+By always using the board, anyone can see at-a-glance which group is causing the delay.
+Delays are not about blame, but clarity.
