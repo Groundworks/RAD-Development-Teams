@@ -68,7 +68,7 @@ Individuals _must not_ process items outside the board on their own.
 The **In Progress** and **done** columns must have work limits on them.
 You cannot pull a feature into a column unless there is free space.
 
-![Trello Limit WIP](img/trello-wip.png)
+![Trello Limit WIP](img/trello-wip.png?raw=true)
 
 Items are removed from **Done** as they are verified by the product owner,
 thus lazy verification will delay the entire project.
