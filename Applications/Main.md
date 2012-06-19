@@ -1,11 +1,7 @@
-Just as a code repository can have many branches,
-RAD Development can have many applications.
-The official de-facto application is called **main**,
-much inspired from the main branch of a code repository.
+# Main
 
-## Main
-
-We use three applications in our stack:
+The main way RAD teams are deployed is with 
+the following application stack:
 
 1. HipChat
 2. Github
