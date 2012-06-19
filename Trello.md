@@ -35,11 +35,8 @@ but not too obsessive about implementation details..
 
 ## Roles
 
-There are two main roles, the **Product Owner** (or Product Associate),
-and a **Developer**,
-however there is only one team.
-The PO is part of the development team,
-but they have a different responsibilities.
+There are two main roles, the **Product Owner** and a **Developer**.
+While the Product Owner is part of the development team they have different responsibilities.
 
 Each role affects the feature queue differently.
 The PO adds and prioritizes features in the backlog,
