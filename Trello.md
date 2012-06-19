@@ -53,6 +53,11 @@ Features should have an average pace between 3-4 days between start and completi
 
 ![Trello Developer](img/trello-developer.png?raw=true)
 
+The Product Owner may solicit information from the developers while creating features,
+by messaging them in chat
+
+![Trello Solicit](img/trello-notify.png?raw=true)
+
 ## Limit Work in Progress
 
 We are using Trello to manage a Kanban board.
@@ -62,6 +67,8 @@ The entire development team shares the same board.
 Individuals _must not_ process items outside the board on their own.
 The **In Progress** and **done** columns must have work limits on them.
 You cannot pull a feature into a column unless there is free space.
+
+![Trello Limit WIP](img/trello-wip.png)
 
 Items are removed from **Done** as they are verified by the product owner,
 thus lazy verification will delay the entire project.
