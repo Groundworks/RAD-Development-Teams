@@ -31,7 +31,7 @@ Writing good features is a skill that takes time.
 Features should be clear and well-defined,
 but not too obsessive about implementation details..
 
-![Trello Feature](img/trello-developer.png?raw=true)
+![Trello Feature](img/trello-feature.png?raw=true)
 
 ## Roles
 
