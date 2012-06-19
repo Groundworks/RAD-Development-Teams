@@ -39,7 +39,7 @@ There are two main roles, the **Product Owner** (or Product Associate),
 and a **Developer**,
 however there is only one team.
 The PO is part of the development team,
-but they do not do any actual coding.
+but they have a different responsibilities.
 
 Each role affects the feature queue differently.
 The PO adds and prioritizes features in the backlog,
