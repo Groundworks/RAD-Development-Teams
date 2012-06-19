@@ -1,6 +1,13 @@
 # Using RAD Dev with Trello
 
 [Trello](https://trello.com/) is a project tracking website.
+For RAD Development Teams,
+Trello serves as the Kanban board that will display the at-a-glance
+status of features as they are implemented.
+The board should _not_ include implementation details relevant only to developers.
+
+Generally create columns on the board _only_ when features need to be passed between groups,
+such as the product owner and developers.
 
 ## The Feature Queue
 
