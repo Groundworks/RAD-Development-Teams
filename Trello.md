@@ -20,6 +20,12 @@ The only things that belong in the backlog are **product features**.
 
 ![Trello Feature Queue](img/trello-feature-queue.png?raw=true)
 
+Writing good features is a skill that takes time.
+Features should be clear and well-defined,
+but not too obsessive about implementation details..
+
+![Trello Feature](img/trello-developer.png?raw=true)
+
 ## Roles
 
 There are two main roles, the **Product Owner** (or Product Associate),
