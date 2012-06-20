@@ -113,15 +113,15 @@ A pull request is an online space to discuss a particular branch of code.
 Other developers can comment on the code directly,
 or make general comments related to the branch.
 
-Pull requests (PR) form a permanent archive of the intended change,
+Pull requests (pull request) form a permanent archive of the intended change,
 regardless if the pull request is accepted or denied.
-It is okay to open an PR with no intention of ever merging it.
-PRs can be used as a place to share experimental code,
+It is okay to open an pull request with no intention of ever merging it.
+pull requests can be used as a place to share experimental code,
 or other wild ideas.
 
 Almost all shared branches should have open pull requests attached to them.
 Since developers are supposed to push their changes daily,
-most PRs should be updated every day.
+most pull requests should be updated every day.
 
 ## References
 
