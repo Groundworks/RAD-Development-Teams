@@ -62,3 +62,9 @@ Trello is an online Kanban board that bridges communication between developers a
 
 A new developer, familiar with RAD, 
 should be able to discover available work within a few minutes of joining the team.
+
+Trello allows card comments.
+Generally this should _only_ be used to solicit information to help write an incomplete card.
+For example, a developer may comment on the card requesting more specific information related to the cards feature.
+If the information is not needed by _both_ the product owner and developer,
+it probably does not belong on the card.
