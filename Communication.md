@@ -27,7 +27,7 @@ Send notifications when you:
 ## Pull Requests
 
 Share your thoughts on how to solve problems.
-The best place for this is a pull request (PR).
-A PR needs a branch with a single commit to be opened;
-it is not only acceptable but encouraged to open PRs after a single commit.
+The best place for this is a pull request.
+A pull request needs a branch with a single commit to be opened;
+it is not only acceptable but encouraged to open pull requests after a single commit.
 Discussing intention is important, before and during your work.

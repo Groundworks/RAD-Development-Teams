@@ -37,7 +37,7 @@ Any developer may:
 	ii. the branch passes all tests
 
 Pull requests do not need to be directly related to a particular feature.
-It is possible, and encouraged, to open PRs in order to refactor the existing code base.
+It is possible, and encouraged, to open pull requests in order to refactor the existing code base.
 
 ### Team Master ###
 

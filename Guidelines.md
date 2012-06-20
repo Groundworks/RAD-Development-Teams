@@ -60,11 +60,11 @@ but even still developers need their own domains of control.
 If you did not open the pull request,
 it is good manners to discuss your intentions before pushing an update to that branch.
 If you wish to significantly alter the code in the branch,
-create a new branch with a new PR.
+create a new branch with a new pull request.
 Any developer can branch another developer's work in progress,
 pushed code belongs to the team.
 If you do branch a branch,
-leave a notice in the original PR.
+leave a notice in the original pull request.
 
 Your pushed code belongs to the team!
 Other developers can and will offer their wild opinions on your code.
